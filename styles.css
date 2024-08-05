@@ -78,4 +78,14 @@ section h2 {
 
 ul {
     list-style-type: disc;
-   
+    padding-left: 20px;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+footer p {
+    font-size: 0.8em;
+    color: #666;
+}
